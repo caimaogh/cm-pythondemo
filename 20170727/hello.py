@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python2
 # -*- coding: utf-8 -*-
 
 ' a test module '  # 表示模块的文档注释，任何模块代码的第一个字符串都被视为模块的文档注释
